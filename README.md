@@ -1,4 +1,4 @@
 # magnus-electric
 This is electric vehicles website
 <br/>
-Owner : Ammad
+Owner : Ammad ud din
